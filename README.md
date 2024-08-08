@@ -1,16 +1,20 @@
-# coffee_shop
+# Coffee Shop App
 
-A new Flutter project.
+A Flutter application designed for coffee enthusiasts to browse, order, and manage coffee products seamlessly.
 
-## Getting Started
+## Key Features
 
-This project is a starting point for a Flutter application.
+- **User Authentication**: Secure login with email and password.
+- **Product Browsing**: Explore a variety of coffee options.
+- **Shopping Cart**: Add/remove items and review your order.
+- **Order Management**: Easy checkout and payment processing.
+- **Responsive Design**: Optimized for both mobile and tablet devices.
 
-A few resources to get you started if this is your first Flutter project:
+## Project Structure
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **`main.dart`**: App entry point.
+- **`home_page.dart`**: Displays coffee products.
+- **`login_page.dart`**: User login interface.
+- **`cart_page.dart`**: Shopping cart management.
+- **`payment_page.dart`**: Payment processing.
+- **`manager_page.dart`**: Admin product management.
